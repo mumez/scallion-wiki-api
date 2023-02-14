@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "MasashiUmezawa 02/12/2023 21:30",
+		"testAddPage" : "MasashiUmezawa 02/12/2023 21:30",
+		"testListBooks" : "MasashiUmezawa 02/12/2023 21:30",
+		"testPageVersions" : "MasashiUmezawa 02/12/2023 21:30",
+		"testRenameBook" : "MasashiUmezawa 02/12/2023 21:30",
+		"testRenamePage" : "MasashiUmezawa 02/12/2023 21:30",
+		"testUpdatePage" : "MasashiUmezawa 02/12/2023 21:30" } }

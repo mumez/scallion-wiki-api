@@ -1,0 +1,14 @@
+{
+	"category" : "ScWikiApi-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MasashiUmezawa 02/12/2023 21:30",
+	"instvars" : [
+		 ],
+	"name" : "ScWikiRepositoryTestCase",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

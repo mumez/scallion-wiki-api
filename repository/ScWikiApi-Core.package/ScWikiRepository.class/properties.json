@@ -1,0 +1,14 @@
+{
+	"category" : "ScWikiApi-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"books" ],
+	"name" : "ScWikiRepository",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "ScWikiApi-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"versions" ],
+	"name" : "ScPageVersionsRepository",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

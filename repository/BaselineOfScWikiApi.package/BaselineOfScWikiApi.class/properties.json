@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfScWikiApi",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfScWikiApi",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

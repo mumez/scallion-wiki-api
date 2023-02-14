@@ -1,0 +1,3 @@
+accessing
+wikiApi
+  ^ ScWikiApi new

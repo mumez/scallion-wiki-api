@@ -1,0 +1,14 @@
+{
+	"category" : "ScWikiApi-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ScWikiApi",
+	"pools" : [
+		 ],
+	"super" : "ZnDefaultGsTransactionalServerDelegate",
+	"type" : "normal" }

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"default" : "MasashiUmezawa 02/05/2023 23:40",
+		"populateExample1" : "MasashiUmezawa 02/12/2023 21:23",
+		"populateExample2" : "MasashiUmezawa 02/13/2023 05:58",
+		"resetDefault" : "MasashiUmezawa 02/06/2023 06:56" },
+	"instance" : {
+		"bookNamed:" : "MasashiUmezawa 02/07/2023 00:23",
+		"books" : "MasashiUmezawa 02/06/2023 21:14",
+		"putBook:" : "MasashiUmezawa 02/07/2023 00:12",
+		"removeBookNamed:" : "MasashiUmezawa 02/07/2023 00:13",
+		"renameBookFrom:to:" : "MasashiUmezawa 02/07/2023 00:31" } }

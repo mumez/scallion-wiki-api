@@ -1,0 +1,19 @@
+{
+	"category" : "ScWikiApi-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"number",
+		"updatedAt",
+		"updatedBy",
+		"content",
+		"isLocked",
+		"book" ],
+	"name" : "ScWikiPage",
+	"pools" : [
+		 ],
+	"super" : "ScWikiModel",
+	"type" : "normal" }
