@@ -1,0 +1,10 @@
+#! /usr/bin/env bash
+
+$GEMSTONE/bin/topaz -il <<EOF >>scallion.out
+set user DataCurator password swordfish gemstone devKit_36
+login
+run
+    (GemServer gemServerNamed: 'zinc') restartGems.
+%
+EOF
+

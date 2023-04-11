@@ -1,0 +1,8 @@
+#! /usr/bin/env bash
+
+PORTS=(9089 9088 9087 9086)
+
+for PORT in "${PORTS[@]}"
+do
+  lsof -t -i:${PORT} | awk '{print $1}' | xargs kill
+done

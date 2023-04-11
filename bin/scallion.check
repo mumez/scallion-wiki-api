@@ -1,0 +1,8 @@
+#! /usr/bin/env bash
+
+httping -c 1 -q http://localhost:9089/wikis
+
+if [ $? -ne 0 ]
+then
+  scallion.start
+fi
