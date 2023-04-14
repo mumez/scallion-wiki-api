@@ -1,0 +1,3 @@
+#! /usr/bin/env bash
+
+$GS_HOME/bin/todeIt devKit_36 bu snapshot --commit scallion-$(date +%u).dbf

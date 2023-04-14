@@ -1,0 +1,3 @@
+#! /usr/bin/env bash
+
+$GS_HOME/bin/todeBackup devKit_36 scallion-$(date +%u).dbf
