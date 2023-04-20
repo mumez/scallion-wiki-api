@@ -3,10 +3,11 @@
 		 },
 	"instance" : {
 		"addPageOn:entity:" : "MasashiUmezawa 02/13/2023 19:25",
-		"existPagesOn:arguments:" : "MasashiUmezawa 03/15/2023 22:44",
+		"existPagesOn:arguments:" : "MasashiUmezawa 04/19/2023 22:00",
 		"getLastVersionNumberOn:arguments:" : "MasashiUmezawa 03/01/2023 06:58",
 		"getPageOn:arguments:" : "MasashiUmezawa 03/01/2023 06:56",
 		"getVersionsOn:arguments:" : "MasashiUmezawa 03/01/2023 06:58",
+		"getWikiOn:arguments:" : "MasashiUmezawa 04/19/2023 22:00",
 		"initialize" : "MasashiUmezawa 03/15/2023 22:46",
 		"pageOn:" : "MasashiUmezawa 02/13/2023 20:17",
 		"putPageOn:entity:isNew:" : "MasashiUmezawa 03/01/2023 07:05",
@@ -15,5 +16,5 @@
 		"updatePageOn:entity:" : "MasashiUmezawa 02/13/2023 19:26",
 		"versionOn:" : "MasashiUmezawa 02/13/2023 20:27",
 		"versionsOn:" : "MasashiUmezawa 02/13/2023 20:18",
-		"wikiOn:" : "MasashiUmezawa 03/15/2023 22:43",
+		"wikiOn:" : "MasashiUmezawa 04/19/2023 22:00",
 		"wikisOn:" : "MasashiUmezawa 03/20/2023 01:17" } }

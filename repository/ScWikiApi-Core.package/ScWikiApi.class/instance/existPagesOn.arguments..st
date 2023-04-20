@@ -1,7 +1,6 @@
 api-wiki
 existPagesOn: aRequest arguments: args
   | pageNames wikiBookName wikiBook results |
-  args ifNil: [ ^ ZnResponse badRequest: aRequest ].
   pageNames := (args at: 'exist-pages' ifAbsent: [ '' ]) findTokens: ','.
   wikiBookName := args
     at: 'name'

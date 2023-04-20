@@ -9,10 +9,11 @@
 		"repository" : "MasashiUmezawa 02/13/2023 21:01",
 		"setUp" : "MasashiUmezawa 02/13/2023 05:49",
 		"testAddPage" : "MasashiUmezawa 03/01/2023 07:04",
-		"testExistPages" : "MasashiUmezawa 02/13/2023 22:07",
+		"testExistPages" : "MasashiUmezawa 04/19/2023 22:16",
 		"testGetLastVersionNumber" : "MasashiUmezawa 02/13/2023 21:13",
 		"testGetPage" : "MasashiUmezawa 02/13/2023 06:30",
 		"testGetVersions" : "MasashiUmezawa 02/13/2023 21:38",
-		"testListWikis" : "MasashiUmezawa 03/20/2023 01:09",
+		"testGetWiki" : "MasashiUmezawa 04/19/2023 22:13",
+		"testListWikis" : "MasashiUmezawa 04/19/2023 22:11",
 		"testUpdatePage" : "MasashiUmezawa 03/01/2023 07:03",
 		"wikiApi" : "MasashiUmezawa 02/12/2023 22:26" } }
