@@ -7,5 +7,6 @@ asDictionary
   ('updatedBy' -> self updatedBy).
   ('content' -> self content).
   ('isLocked' -> self isLocked).
+  ('ownedBy' -> self ownedBy).
   ('bookId' -> self book id).
   ('wiki' -> self book name)} asDictionary

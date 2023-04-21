@@ -4,9 +4,9 @@ testExistPages
   book := self repository bookNamed: 'ume'.
   book addPageNamed: 'hello' content: 'hello content' by: 'adder1'.
   req := self
-    getRequest: 'wiki'
+    getRequest: 'pages'
     arguments:
-      {('name' -> 'ume').
-      ('exist-pages' -> 'welcome,hello,home')}.
+      {('wiki' -> 'ume').
+      ('exist' -> 'welcome,hello,home')}.
   resp := self jsonResponseFor: req.
   self assert: resp = #(true true false)

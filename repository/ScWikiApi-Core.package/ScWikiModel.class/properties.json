@@ -8,7 +8,8 @@
 	"instvars" : [
 		"name",
 		"id",
-		"context" ],
+		"context",
+		"ownedBy" ],
 	"name" : "ScWikiModel",
 	"pools" : [
 		 ],

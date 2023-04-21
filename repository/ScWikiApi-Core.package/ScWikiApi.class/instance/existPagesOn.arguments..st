@@ -1,9 +1,9 @@
-api-wiki
+api-page
 existPagesOn: aRequest arguments: args
   | pageNames wikiBookName wikiBook results |
-  pageNames := (args at: 'exist-pages' ifAbsent: [ '' ]) findTokens: ','.
+  pageNames := (args at: 'exist' ifAbsent: [ '' ]) findTokens: ','.
   wikiBookName := args
-    at: 'name'
+    at: 'wiki'
     ifAbsent: [ ^ ZnResponse badRequest: aRequest ].
   wikiBook := (self repository bookNamed: wikiBookName)
     ifNil: [ ^ ZnResponse notFound: aRequest url ].
