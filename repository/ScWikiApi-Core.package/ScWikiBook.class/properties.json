@@ -8,7 +8,8 @@
 	"instvars" : [
 		"title",
 		"lastPageNumber",
-		"pages" ],
+		"pages",
+		"pagesSet" ],
 	"name" : "ScWikiBook",
 	"pools" : [
 		 ],
