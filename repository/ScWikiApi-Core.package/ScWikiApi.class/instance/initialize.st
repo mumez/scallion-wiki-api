@@ -8,4 +8,5 @@ initialize
     map: 'pages' to: #'pagesOn:';
     map: 'versions' to: #'versionsOn:';
     map: 'version' to: #'versionOn:';
+    map: 'updates' to: #'updatesOn:';
     yourself
