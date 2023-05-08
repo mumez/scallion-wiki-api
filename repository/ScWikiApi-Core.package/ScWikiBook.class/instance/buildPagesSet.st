@@ -4,5 +4,5 @@ buildPagesSet
   setOfPages := Set new
     addAll: self pages values;
     yourself.
-  self buildPagesIndexOn: setOfPages.
+  self buildPagesIndexesOn: setOfPages.
   ^ setOfPages
