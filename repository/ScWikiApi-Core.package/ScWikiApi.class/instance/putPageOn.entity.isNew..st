@@ -21,4 +21,5 @@ putPageOn: aRequest entity: entity isNew: newPage
   args
     at: 'isLocked'
     ifPresent: [ :isLocked | self tryUpdateLockStatus: isLocked page: page in: wikiBook ].
+  args at: 'title' ifPresent: [ :title | page title: title ].
   ^ self returnJson: page asDictionary

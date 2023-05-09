@@ -10,6 +10,7 @@
 		"updatedAt",
 		"updatedBy",
 		"content",
+		"title",
 		"isLocked",
 		"book" ],
 	"name" : "ScWikiPage",
