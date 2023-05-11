@@ -1,5 +1,5 @@
 # scallion-wiki-api
-Wiki API server build on GemStone/S.
+Wiki API server built on top of GemStone/S.
 
 ## Installation
 
@@ -34,3 +34,7 @@ Now you can start wiki server
 ## API
 
 Draft API document is [here](https://softumeya-llc.stoplight.io/docs/scallion-wiki-api/branches/main/3tx0q260z82ve-scallion-wiki-api)
+
+## Demo
+
+Example frontend: [scallion-svelte](https://github.com/mumez/scallion-svelte) is running [here](https://scallion-svelte.vercel.app/)
