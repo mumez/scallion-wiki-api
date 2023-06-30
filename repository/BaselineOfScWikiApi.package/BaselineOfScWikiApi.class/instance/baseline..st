@@ -1,7 +1,10 @@
 baseline
 baseline: spec
-	<baseline>
-	spec for: #'common' do: [
-		spec 
-			package: 'ScWikiApi-Core';
-			package: 'ScWikiApi-Tests'. ].
+  <baseline>
+  spec
+    for: #'gemstone'
+    do: [ 
+      self meilisearch: spec.
+      spec
+        package: 'ScWikiApi-Core';
+        package: 'ScWikiApi-Tests' ]

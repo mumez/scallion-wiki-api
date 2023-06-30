@@ -1,0 +1,15 @@
+{
+	"category" : "ScWikiApi-Core",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"indexName",
+		"engineSettings" ],
+	"name" : "ScTextSearcher",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
