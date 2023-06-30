@@ -1,0 +1,14 @@
+{
+	"category" : "ScWikiApi-Core",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"settingsDict" ],
+	"name" : "ScSettings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

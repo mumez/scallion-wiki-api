@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"default" : "MasashiUmezawa 06/29/2023 19:55",
+		"initialize" : "MasashiUmezawa 06/29/2023 19:54" },
+	"instance" : {
+		"at:" : "MasashiUmezawa 06/29/2023 19:50",
+		"at:ifAbsent:" : "MasashiUmezawa 06/29/2023 19:50",
+		"at:ifAbsentPut:" : "MasashiUmezawa 06/29/2023 19:51",
+		"at:put:" : "MasashiUmezawa 06/29/2023 19:51",
+		"initialize" : "MasashiUmezawa 06/29/2023 19:48",
+		"settingsDict" : "MasashiUmezawa 06/29/2023 19:49",
+		"settingsDict:" : "MasashiUmezawa 06/29/2023 19:50",
+		"useSearchEngine" : "MasashiUmezawa 06/29/2023 19:59",
+		"useSearchEngine:" : "MasashiUmezawa 06/29/2023 20:00" } }
