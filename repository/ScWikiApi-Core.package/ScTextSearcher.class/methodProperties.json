@@ -3,8 +3,8 @@
 		"default" : "MasashiUmezawa 06/29/2023 20:10",
 		"initialize" : "MasashiUmezawa 06/29/2023 20:09",
 		"populateAllWikiBooks" : "MasashiUmezawa 06/30/2023 08:34",
-		"reset" : "MasashiUmezawa 07/01/2023 06:44",
-		"setupIndex" : "MasashiUmezawa 06/30/2023 07:47" },
+		"resetAndPopulate" : "MasashiUmezawa 07/01/2023 07:17",
+		"resetIndex" : "MasashiUmezawa 07/01/2023 07:20" },
 	"instance" : {
 		"basicSearch:bookNamed:" : "MasashiUmezawa 07/01/2023 06:17",
 		"defaultIndexName" : "MasashiUmezawa 06/29/2023 20:56",
@@ -17,6 +17,6 @@
 		"putBook:" : "MasashiUmezawa 06/30/2023 08:31",
 		"putPage:on:" : "MasashiUmezawa 06/30/2023 08:19",
 		"putPages:on:" : "MasashiUmezawa 06/30/2023 08:27",
-		"resetIndex" : "MasashiUmezawa 06/30/2023 08:54",
+		"resetIndex" : "MasashiUmezawa 07/01/2023 07:19",
 		"search:bookNamed:on:" : "MasashiUmezawa 07/01/2023 06:29",
-		"setupIndex" : "MasashiUmezawa 07/01/2023 06:49" } }
+		"setupIndex" : "MasashiUmezawa 07/01/2023 07:19" } }

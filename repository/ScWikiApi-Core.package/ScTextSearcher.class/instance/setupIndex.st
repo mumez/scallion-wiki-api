@@ -3,7 +3,7 @@ setupIndex
   [ self index loaded ]
     on: MsError
     do: [ (self engine createIndex: self indexName primaryKey: 'id') waitEndedForAWhile ].
-  self index
+  ^ self index
     applySettingsUsing: [ :opts | 
       opts
         searchableAttributes: #('name' 'title' 'content');
