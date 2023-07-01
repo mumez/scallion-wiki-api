@@ -4,4 +4,7 @@ setupIndex
     on: MsError
     do: [ (self engine createIndex: self indexName primaryKey: 'id') waitEndedForAWhile ].
   self index
-    applySettingsUsing: [ :opts | opts filterableAttributes: #('wiki') ]
+    applySettingsUsing: [ :opts | 
+      opts
+        searchableAttributes: #('name' 'title' 'content');
+        filterableAttributes: #('wiki') ]

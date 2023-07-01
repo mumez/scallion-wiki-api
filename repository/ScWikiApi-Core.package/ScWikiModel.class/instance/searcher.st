@@ -1,0 +1,3 @@
+accessing
+searcher
+  ^ ScTextSearcher default
