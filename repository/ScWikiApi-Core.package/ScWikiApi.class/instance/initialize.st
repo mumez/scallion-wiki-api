@@ -9,4 +9,5 @@ initialize
     map: 'versions' to: #'versionsOn:';
     map: 'version' to: #'versionOn:';
     map: 'updates' to: #'updatesOn:';
+    map: 'search' to: #'searchOn:';
     yourself

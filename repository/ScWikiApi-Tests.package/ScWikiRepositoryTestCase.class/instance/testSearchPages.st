@@ -1,5 +1,5 @@
 testing
-testSearchPage
+testSearchPages
   | repos pages |
   ScSettings default useSearchEngine
     ifFalse: [ ^ self ].

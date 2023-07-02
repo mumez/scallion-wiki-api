@@ -8,4 +8,4 @@ searchOn: aRequest
   queryString := args at: 'q'.
   wikiBookName := args at: 'wiki'.
   wikiPages := self repository search: queryString bookNamed: wikiBookName.
-  ^ self returnJson: wikiPages asArray
+  ^ self returnJson: (wikiPages collect: [ :each | each asDictionary ])

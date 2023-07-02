@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"getRequest:arguments:" : "MasashiUmezawa 02/13/2023 18:34",
+		"getRequest:arguments:" : "MasashiUmezawa 07/02/2023 07:17",
 		"jsonResponseFor:" : "MasashiUmezawa 02/12/2023 22:34",
 		"postRequest:arguments:" : "MasashiUmezawa 02/13/2023 18:33",
 		"putRequest:arguments:" : "MasashiUmezawa 02/13/2023 19:13",
@@ -16,5 +16,6 @@
 		"testGetVersions" : "MasashiUmezawa 02/13/2023 21:38",
 		"testGetWiki" : "MasashiUmezawa 04/19/2023 22:13",
 		"testListWikis" : "MasashiUmezawa 04/19/2023 22:11",
+		"testSearchPages" : "MasashiUmezawa 07/02/2023 07:21",
 		"testUpdatePage" : "MasashiUmezawa 03/01/2023 07:03",
 		"wikiApi" : "MasashiUmezawa 02/12/2023 22:26" } }
