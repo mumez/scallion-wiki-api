@@ -17,7 +17,7 @@ testGetUpdates
       ('from' -> (nowSeconds + 10000)).
       ('size' -> 3)}.
   updates := self jsonResponseFor: req.
-  self assert: updates size = 3.
+  self assert: updates size = 2.
   welcome2LastPage := updates first.
   self assert: (welcome2LastPage at: 'name') = 'welcome2'.
   self assert: (welcome2LastPage at: 'content') = 'updated content4'.

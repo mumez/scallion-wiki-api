@@ -3,6 +3,7 @@ testSearchPages
   | book req resp page |
   ScTextSearcher resetIndex waitEndedForAWhile.
   ScWikiRepository populateExample2.	"Set up again after the search index was cleared"
+  (Delay forMilliseconds: 10) wait.
   req := self
     getRequest: 'search'
     arguments:
