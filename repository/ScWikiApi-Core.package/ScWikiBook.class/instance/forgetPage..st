@@ -1,4 +1,4 @@
-actions
+releasing
 forgetPage: aPage
   self pagesSet remove: aPage ifAbsent: [  ].
   self settings useSearchEngine

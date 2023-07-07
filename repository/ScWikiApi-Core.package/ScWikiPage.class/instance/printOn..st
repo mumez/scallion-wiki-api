@@ -7,7 +7,7 @@ printOn: aStream
     nextPutAll: self fullKey.
   aStream
     space;
-    nextPutAll: self number asString.
+    nextPutAll: self id asString.
   aStream
     space;
     nextPutAll: self updatedAt asString.
