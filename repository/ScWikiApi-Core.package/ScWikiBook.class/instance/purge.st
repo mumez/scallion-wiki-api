@@ -1,4 +1,4 @@
 releasing
 purge
-  self forgetAppPages.
-  self pages do: [ :each | self resetVersions ]
+  self forgetAllPages.
+  self pages do: [ :each | each resetVersions ]
