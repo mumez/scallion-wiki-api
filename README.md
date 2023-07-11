@@ -35,6 +35,16 @@ Now you can start wiki server
 
 Draft API document is [here](https://softumeya-llc.stoplight.io/docs/scallion-wiki-api/branches/main/3tx0q260z82ve-scallion-wiki-api)
 
+### Search API
+
+If you would like to use the search API, please set up [Meilisearch.st](https://github.com/mumez/Meilisearch.st) as well.
+
+You can disable the feature by evaluating:
+
+```smalltalk
+ScSettings default useSearchEngine: false.
+```
+
 ## Demo
 
 Example frontend: [scallion-svelte](https://github.com/mumez/scallion-svelte) is running [here](https://scallion-svelte.vercel.app/)
